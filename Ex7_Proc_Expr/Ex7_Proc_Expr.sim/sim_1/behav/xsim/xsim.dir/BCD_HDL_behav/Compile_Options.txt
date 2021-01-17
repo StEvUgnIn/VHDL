@@ -1,0 +1,1 @@
+-wto "11cdfa66266b43658034a56c36603df0" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "BCD_HDL_behav" "xil_defaultlib.BCD_HDL" -log "elaborate.log" 

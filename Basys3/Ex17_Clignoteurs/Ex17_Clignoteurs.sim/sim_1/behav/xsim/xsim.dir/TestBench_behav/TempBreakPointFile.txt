@@ -1,0 +1,4 @@
+Breakpoint File Version 1.0
+128 true C:/SysNum/Basys3/Ex17_Clignoteurs/Ex17_Clignoteurs.srcs/sim_1/new/TestBench.vhd
+134 true C:/SysNum/Basys3/Ex17_Clignoteurs/Ex17_Clignoteurs.srcs/sim_1/new/TestBench.vhd
+140 true C:/SysNum/Basys3/Ex17_Clignoteurs/Ex17_Clignoteurs.srcs/sim_1/new/TestBench.vhd

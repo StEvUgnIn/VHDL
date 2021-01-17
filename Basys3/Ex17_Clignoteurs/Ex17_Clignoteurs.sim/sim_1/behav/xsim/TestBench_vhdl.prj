@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Ex17_Clignoteurs.srcs/sources_1/imports/Moore/Moore_SM.vhd" \
+"../../../../Ex17_Clignoteurs.srcs/sim_1/new/TestBench.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Ex22_DivFreq.srcs/sources_1/imports/new/bascule.vhd" \
+"../../../../Ex22_DivFreq.srcs/sim_1/new/testbench.vhd" \
+
+# Do not sort compile order
+nosort

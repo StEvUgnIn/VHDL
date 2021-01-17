@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TE2_regdec.srcs/sources_1/new/bascule.vhd" \
+"../../../../TE2_regdec.srcs/sim_1/imports/SysNum/testbench.vhd" \
+
+# Do not sort compile order
+nosort

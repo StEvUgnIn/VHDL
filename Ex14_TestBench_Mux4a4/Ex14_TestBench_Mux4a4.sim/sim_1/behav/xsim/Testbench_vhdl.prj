@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Ex5_mux4a4/Ex5_mux4a4.srcs/sources_1/new/Mux4a4.vhd" \
+"../../../../Ex14_TestBench_Mux4a4.srcs/sim_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort

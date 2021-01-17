@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Ex18_Signalisation.srcs/sources_1/imports/Moore/Moore_SM.vhd" \
+"../../../../Ex18_Signalisation.srcs/sim_1/imports/SysNum/testbench.vhd" \
+
+# Do not sort compile order
+nosort
